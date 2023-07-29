@@ -1,0 +1,4 @@
+Yes we can do this using ts-node library. Add in package json for start command like this:
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },

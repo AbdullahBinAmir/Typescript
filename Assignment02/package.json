@@ -1,0 +1,21 @@
+{
+  "name": "assignment02",
+  "version": "1.0.0",
+  "description": "grading system in ts",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Abdullah Bin Amir",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.4.5",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
